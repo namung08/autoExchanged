@@ -3,7 +3,7 @@
 ------------
 - 이 프로그램은 **한국수출입은행의 open API**를 활용한 환율 계산기 입니다.
 <div>
-<img style="display: block; margin: 0 auto" alt="image-removebg-preview.png" src="logo.png" width="300"/>
+<img style="display: block; margin: 0 auto" alt="image-removebg-preview.png" src="img/logo.png" width="300"/>
 </div>
 <div style="text-align: center">
     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnamung08%2FautoExchanged&count_bg=%23000000&title_bg=%23000000&icon=uplabs.svg&icon_color=%23FFFFFF&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false"/></a>
@@ -21,7 +21,7 @@
 ---
 |                 **이상준**                  |
 |:----------------------------------------:|
-|           ![img.png](img.png)            |
+|           ![img.png](img/img.png)            |
 | [@namung08](https://github.com/namung08) |
 |            안산대학교 컴퓨터 정보학과 졸업             |
 
@@ -69,15 +69,15 @@ cd autoExchanged
 ---
 | **메인**                  | **통화코드 확인 화면**          |
 |-------------------------|-------------------------|
-| ![img_6.png](img_6.png) | ![img_7.png](img_7.png) |
+| ![img_6.png](img/img_6.png) | ![img_7.png](img/img_7.png) |
 
 | **외화 판매 화면**              | **판매 결과 화면**            |
 |---------------------------|-------------------------|
-| ![img_11.png](img_11.png) | ![img_10.png](img_10.png) |
+| ![img_11.png](img/img_11.png) | ![img_10.png](img/img_10.png) |
 
 | **외화 구매 화면**              |**구매 결과 화면**|
 |---------------------------|---|
-| ![img_12.png](img_12.png) |![img_8.png](img_8.png)|
+| ![img_12.png](img/img_12.png) |![img_8.png](img/img_8.png)|
 
 # 주요 기능 <img src="img_13.png" alt="" width="30">
 
