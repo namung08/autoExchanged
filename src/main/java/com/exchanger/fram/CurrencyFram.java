@@ -73,7 +73,7 @@ public class CurrencyFram extends JFrame {
             getContentPane().remove(currentPanel);
         }
 
-        main.fram.CurrencyFramSell sellPanel = new main.fram.CurrencyFramSell();
+        CurrencyFramSell sellPanel = new CurrencyFramSell();
         sellPanel.setBounds(50, 100, 400, 150);
         getContentPane().add(sellPanel);
         currentPanel = sellPanel;
@@ -97,6 +97,6 @@ public class CurrencyFram extends JFrame {
 
     // "통화코드 확인" 버튼을 클릭했을 때 호출되는 메서드
     private void showCurrencyFramcheck() {
-        new main.fram.CurrencyFrameCheck();
+        new CurrencyFrameCheck();
     }
 }

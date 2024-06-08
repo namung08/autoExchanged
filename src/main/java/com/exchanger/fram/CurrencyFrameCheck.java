@@ -1,9 +1,10 @@
 package com.exchanger.fram;
 
+import com.exchanger.utils.CurrencyCodeMap;
+
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 
-import main.utils.CurrencyCodeMap;
 
 import java.util.Map;
 import java.util.TreeMap;

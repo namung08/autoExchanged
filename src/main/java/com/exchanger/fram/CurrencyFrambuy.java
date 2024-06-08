@@ -1,5 +1,7 @@
 package com.exchanger.fram;
 
+import com.exchanger.utils.Exchange;
+
 import java.awt.GridLayout;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -9,7 +11,6 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 
-import main.utils.Exchange;
 
 public class CurrencyFrambuy extends JPanel {
 

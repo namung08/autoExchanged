@@ -1,5 +1,7 @@
 package com.exchanger.fram;
 
+import com.exchanger.utils.Exchange;
+
 import java.awt.GridLayout;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -9,8 +11,6 @@ import javax.swing.JLabel;
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
-
-import main.utils.Exchange;
 
 // 환율 계산 및 판매 화면을 구성하는 JPanel 클래스
 public class CurrencyFramSell extends JPanel {

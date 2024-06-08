@@ -1,6 +1,6 @@
 package com.exchanger.run;
 
-import main.fram.CurrencyFram;
+import com.exchanger.fram.CurrencyFram;
 
 public class Main {
     public static void main(String[] args) {

@@ -17,7 +17,7 @@ public class Exchange {
         String currencyCode = code.toUpperCase();
 
         // 판매 환율 조회
-        BigDecimal exchangeRate = main.utils.ExchangeRateUtils.getExchangeRate(currencyCode, 1);
+        BigDecimal exchangeRate = ExchangeRateUtils.getExchangeRate(currencyCode, 1);
 
         // BigDecimal 클래스 자체에서 제공하는 소수점 이하 자리수 제어 방법을 사용
         if (exchangeRate != null) {
@@ -46,7 +46,7 @@ public class Exchange {
         String currencyCode = code.toUpperCase();
 
         // 구매 환율 조회
-        BigDecimal exchangeRate = main.utils.ExchangeRateUtils.getExchangeRate(currencyCode, 2);
+        BigDecimal exchangeRate = ExchangeRateUtils.getExchangeRate(currencyCode, 2);
 
         // BigDecimal 클래스 자체에서 제공하는 소수점 이하 자리수 제어 방법을 사용
         if (exchangeRate != null) {
